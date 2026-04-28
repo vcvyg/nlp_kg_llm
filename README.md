@@ -35,6 +35,8 @@
 ### 智能问答与局部子图联动
 
 ![智能问答与局部子图联动](screenshots/qa-transformer-subgraph.png)
+![Uploading image.png…]()
+
 
 ## 项目数据规模
 
